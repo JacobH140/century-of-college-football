@@ -1,0 +1,15 @@
+name: college-football-network 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - pip:
+    - requests
+    - python-dotenv
