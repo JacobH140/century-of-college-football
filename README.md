@@ -10,7 +10,7 @@ Head over to this Colab notebook (LINK). There, the data may be filtered accordi
 The script should also make it clear how to custom-filter the data if desired. 
 
 
-Alternatively, the raw data queried by the Colab notebook may be found in the file `all_cfb_games_1924_2024`. The script to generate the raw data is `main_csv_generation.py`. 
+Alternatively, the raw data queried by the Colab notebook may be found in the file `all_cfb_games_1924_2024.csv`. The script to generate the raw data is `main_csv_generation.py`. 
 
 # Warnings
 - Data from 2020 is inconsisent due to Covid-19. 
