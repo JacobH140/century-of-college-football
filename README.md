@@ -14,4 +14,4 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 
 # Warnings
 - Data from 2020 is inconsisent due to Covid-19. 
-- Likewise for 1939-1945. In fact, the entire dataset pre-1970 looks like 2020 in places — expect to exercise extra care if using it. 
+- Likewise for 1939-1945 due to WWII. In fact, the entire dataset pre-1970 looks like 2020 in places — expect to exercise extra care if using it. 
