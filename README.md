@@ -2,7 +2,7 @@
 A temporal network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. 
 
 # How to Use
-Head over to this Colab notebook (LINK). There, the data may be filtered according to the following parameters:
+Head over to this Colab notebook (LINK) and make a copy. There, the data may be filtered according to the following parameters:
 - time range (in years)
 - years to exclude
 - ....
