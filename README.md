@@ -7,7 +7,7 @@ Head over to this Colab notebook (LINK) and make a copy. There, the data may be 
 - years to exclude
 - ....
 
-The script should also make it clear how to custom-filter the data if desired. 
+The notebook will provide a tailored dataset together with a readme. The notebook should also make it clear how to custom-filter the data if desired. 
 
 
 Alternatively, the raw data queried by the Colab notebook may be found in the file `all_cfb_games_1924_2024.csv`. The script to generate the raw data is `main_csv_generation.py`. 
