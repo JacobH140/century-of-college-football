@@ -24,11 +24,11 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 ```
 
 # Description
-College American football is the most-attended sport in the United States. It has also given rise to a popular network science dataset [1]
+College American football is the most-attended sport in the United States. It has also given rise to the popular network science dataset in [1], wherein an edge is placed between two Division I teams iff they faced one another during the 2000 season. 
 
-the majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Sometimes this was encoded in the form of subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding some hierarchical structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
+The majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Sometimes this was encoded in the form of subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding hierarchical network structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
 
-Dynamics take place in the form of _conference realignment_: most years witness a small but nontrivial number of teams change conference. Over time, conferences expand, contract, birth, die, rebrand, and resurge. In some cases the Ship of Theseus effect described in CITE occurs. 
+Conferences lend natural ground-truth community structure to the network in [1], and it has therefore been a popular benchmark for static community detection tasks. This dataset expands upon it by capturing all Division I FBS games played between the 1924 and 2024 seasons as well as _when_ each game was played. Dynamics take place in the form of _conference realignment_: most years witness a small but nontrivial number of teams change conference. Over time, conferences expand, contract, birth, die, rebrand, and resurge. In some cases the Ship of Theseus effect described in [2] occurs. Thus, this dynamic network may be of interest for the evaluation of dynamic community detection methods.
 
 
 
