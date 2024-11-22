@@ -9,7 +9,7 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 
 # Warnings
 - Data from 2020 is inconsisent due to Covid-19. 
-- Likewise for 1939-1945 due to WWII. More generally, expect to exercise care when handling data pre-1970.
+- Likewise for 1939-1945 due to WWII. Indeed, expect to exercise general care when handling data pre-1970.
 
 
 # Citing
