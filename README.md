@@ -1,4 +1,4 @@
-# century-of-college-football
+# Century of College Football Dataset
 A dynamic network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. 
 
 # How to Use
