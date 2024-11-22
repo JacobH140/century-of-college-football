@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 import time
 
-API_KEY = "2XTlcH2Z+dkaHXCCxrQ3Yl4YUk1qDrNTG5IP4RbgFetSiGmZGQvs6v0gxya6q/wq"
+API_KEY = "(api key)"
 BASE_URL = "https://api.collegefootballdata.com"
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
