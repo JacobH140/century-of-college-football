@@ -13,7 +13,7 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 
 
 # Citing
-``@inproceedings{humeSpectral2024,
+```@inproceedings{humeSpectral2024,
   author    = {Hume, Jacob and Balzano, Laura},
   title     = {A Spectral Framework for Tracking Communities in Evolving Networks},
   booktitle = {Proceedings of the Third Learning on Graphs Conference},
