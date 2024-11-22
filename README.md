@@ -1,5 +1,5 @@
 # century-of-college-football
-A network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. The idea of benchmarking (static) community detection using college football comes from [1]. 
+A dynamic network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. The idea of benchmarking (static) community detection using college football comes from [1]. 
 
 # How to Use
 Head over to [this Colab notebook](https://colab.research.google.com/drive/1V8QjLjaZGW33G-bqT1MNQ_VvXWd3E5sf?usp=sharing)
@@ -24,6 +24,7 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 ```
 
 # Description
+College American football is the most-attended sport in the United States. It has also given rise to a popular network science dataset [1]
 
 the majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Sometimes this was encoded in the form of subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding some hierarchical structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
 
