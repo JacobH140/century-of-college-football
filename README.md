@@ -27,10 +27,14 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 
 the majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Sometimes this was encoded in the form of subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding some hierarchical structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
 
-Dynamics are introduced via _conference realignment_....
+Dynamics take place in the form of _conference realignment_: most years witness a small but nontrivial number of teams change conference. Over time, conferences expand, contract, birth, die, rebrand, and resurge. In some cases the Ship of Theseus effect described in CITE occurs. 
 
 
 
 # References
 [1] Michelle Girvan and Mark EJ Newman. Community structure in social and biological networks.
 Proceedings of the national academy of sciences, 99(12):7821–7826, 2002.
+
+[2] Remy Cazabet, Souâad Boudebza, and Giulio Rossetti. Evaluating community detection
+algorithms for progressively evolving graphs. Journal of Complex Networks, 8(6):cnaa027,
+2020. 
