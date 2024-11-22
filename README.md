@@ -25,7 +25,7 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
 
 # Description
 
-the majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Moreover, many conferences have before had their own subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding some hierarchical structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
+the majority of college football teams belong to a specific _conference_. Roughly speaking, a given team will play ~2/3 of their games against opposition from within their conference and 1/3 of their games out-of-conference. Conference schedules are not all created equal: historically, teams within closer geographic proximity were more likley to play one another. Sometimes this was encoded in the form of subdivisions (e.g. from 2014-2023 'B1G' contained 'B1G East' and 'B1G West'), yielding some hierarchical structure. Most matchups do not occur every season, but specific rivalries (e.g. Michigan-Ohio State, Clemson-South Carolina) will, including inter-conference ones.
 
 Dynamics are introduced via _conference realignment_....
 
