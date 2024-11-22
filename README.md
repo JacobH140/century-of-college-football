@@ -19,4 +19,5 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
   booktitle = {Proceedings of the Third Learning on Graphs Conference},
   year      = {2024},
   organization = {PLMR},
-}```
+}
+```
