@@ -1,5 +1,5 @@
 # century-of-college-football
-A temporal network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. 
+A network based on 100 years of Division I FBS American college football games (1924-2024), with evolving ground-truth community memberships captured in terms of conference realignment. The idea of benchmarking (static) community detection method on college football games comes from [1]. 
 
 # How to Use
 Head over to [this Colab notebook](https://colab.research.google.com/drive/1V8QjLjaZGW33G-bqT1MNQ_VvXWd3E5sf?usp=sharing)
@@ -22,3 +22,7 @@ Alternatively, the raw data queried by the Colab notebook may be found in the fi
   organization = {PLMR},
 }
 ```
+
+# References
+[1] Michelle Girvan and Mark EJ Newman. Community structure in social and biological networks.
+Proceedings of the national academy of sciences, 99(12):7821–7826, 2002.
